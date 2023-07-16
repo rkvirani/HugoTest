@@ -1,7 +1,7 @@
 ---
 title: "Openai"
 date: 2023-07-16T15:25:30-07:00
-draft: true
+draft: false
 ---
 ## Unleashing the Power of ChatGPT: A Revolution in Conversational AI
 
@@ -25,7 +25,9 @@ Virtual Assistants: From scheduling appointments and setting reminders to provid
 
 Content Generation: Content creators and writers have found ChatGPT to be an invaluable resource. It can help generate ideas, provide inspiration, and offer suggestions for different writing styles. Blog
 
+## References
 
+- http://chatgpt.openai.com
 
 
 
